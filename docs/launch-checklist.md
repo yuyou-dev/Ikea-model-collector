@@ -21,7 +21,7 @@ the linked artifact or command has been verified.
 - [x] `init`, `add`, `record-attempt`, `render`, `finalize`, `validate`, `show`, and `serve` are documented and tested.
 - [x] Security limits, capture schema, and collection outputs match implementation.
 - [x] Blender preview regression passes without copying the test model into this repository.
-- [ ] Project-level and global installation instructions are tested.
+- [x] Project-level and global installation instructions are tested.
 
 ## Quality gates
 
@@ -42,8 +42,8 @@ the linked artifact or command has been verified.
 
 ## GitHub release
 
-- [ ] Public `yuyou-dev/Ikea-model-collector` repository created with `main` default branch.
-- [ ] Description and topics are set.
-- [ ] GitHub Actions is green on `main`.
+- [x] Public `yuyou-dev/Ikea-model-collector` repository created with `main` default branch.
+- [x] Description and topics are set.
+- [x] GitHub Actions is green on `main`.
 - [ ] Release commit SHA and CI URL are recorded in the final handoff.
 - [ ] `v0.1.0` tag and release are published with the no-model/non-commercial warning.
