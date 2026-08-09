@@ -45,5 +45,5 @@ the linked artifact or command has been verified.
 - [x] Public `yuyou-dev/Ikea-model-collector` repository created with `main` default branch.
 - [x] Description and topics are set.
 - [x] GitHub Actions is green on `main`.
-- [ ] Release commit SHA and CI URL are recorded in the final handoff.
-- [ ] `v0.1.0` tag and release are published with the no-model/non-commercial warning.
+- [x] Release commit SHA and CI URL are recorded in the final handoff.
+- [x] `v0.1.0` tag and release are published with the no-model/non-commercial warning.
