@@ -1,0 +1,4 @@
+interface:
+  display_name: "IKEA Model Collector"
+  short_description: "Build verified local IKEA GLB research collections"
+  default_prompt: "Use $ikea-model-collector to capture a user-selected IKEA product model into a verified local collection with provenance, dimensions, preview, and handoff."

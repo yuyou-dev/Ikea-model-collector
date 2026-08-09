@@ -1,0 +1,47 @@
+Ikea-model-collector
+Copyright 2026 yuyou-dev
+
+This repository's original source code and documentation are licensed under
+the Apache License, Version 2.0. That license does not apply to IKEA models,
+textures, product imagery, trademarks, trade dress, product designs, or other
+third-party material.
+
+IKEA is a trademark of Inter IKEA Systems B.V. This project is independent,
+unofficial, and is not affiliated with, sponsored by, approved by, or endorsed
+by IKEA or Inter IKEA Systems B.V.
+
+NO IKEA ASSETS ARE DISTRIBUTED
+
+This repository does not contain, host, mirror, sublicense, or distribute IKEA
+GLB/GLTF models, textures, model archives, or a catalog of downloadable model
+URLs. The software records assets that an individual user captures locally
+from an IKEA product page during a user-directed browser session. Generated
+collections remain outside this repository and must not be committed here.
+
+USE RESTRICTIONS AND USER RESPONSIBILITY
+
+The workflow is intended only for personal research, learning, and
+non-commercial experimentation. It grants no right to commercially use,
+redistribute, publish, sell, mirror, or publicly host IKEA material, and it is
+not designed for unattended or large-scale scraping. Users are responsible for
+checking the current terms, copyright, database, trademark, and other rules for
+the IKEA site and jurisdiction they use before each collection task.
+
+As of this project's initial release, the IKEA U.S. Terms & Conditions state an
+effective date of May 1, 2026. They describe limited non-commercial personal
+use of a single copy of site material and restrict copying, distribution, and
+scraping without written permission. This project does not interpret that
+language as a general authorization to download or reuse 3D assets. Consult the
+current terms directly:
+https://www.ikea.com/us/en/customer-service/terms-conditions/
+
+DOCUMENTATION IMAGES
+
+Documentation screenshots and the derived preview contact sheet are included
+only to illustrate a local research workflow. Their inclusion does not license
+the depicted IKEA product designs, product names, trademarks, or model-derived
+visuals. Do not extract or reuse those visual elements independently.
+
+OpenHome3D is referenced as a separate downstream application example. Its CC0
+assets and the IKEA material handled locally by this tool have different rights
+and must not be treated as interchangeable licensing pools.

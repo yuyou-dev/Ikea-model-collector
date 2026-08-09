@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.ikea-model-collector/
+*.partial-*
+*.glb
+*.gltf
+*.blend
+*.blend1
+*.zip
+coverage/

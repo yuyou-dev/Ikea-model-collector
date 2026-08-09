@@ -1,0 +1,14 @@
+{
+  "name": "ikea-model-collector",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "bin": { "ikea-model-collector": ".agents/skills/ikea-model-collector/scripts/ikea-model-collector.mjs" },
+  "scripts": {
+    "test": "node --test",
+    "audit": "node .agents/skills/ikea-model-collector/scripts/audit-repository.mjs",
+    "check": "npm test && npm run audit"
+  },
+  "license": "Apache-2.0"
+}
