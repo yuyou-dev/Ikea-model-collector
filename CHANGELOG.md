@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Restore the local library, preview contact sheet, and room-planning showcases.
+- Present installation, workflow, capabilities, and application examples in a clearer agent-first hierarchy.
+- Restore the OpenHome3D application link with an explicit separation between CC0 and IKEA-controlled licensing pools.
+
 ## 0.2.0 — Agent-first installation
 
 - Add a guided Codex/agent installation flow to both READMEs.
