@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.1 — Restore README showcases
 
 - Restore the local library, preview contact sheet, and room-planning showcases.
 - Present installation, workflow, capabilities, and application examples in a clearer agent-first hierarchy.
